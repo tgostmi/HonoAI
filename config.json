@@ -1,0 +1,15 @@
+{
+  "api_id": 123,
+  "api_hash": "telegram_api_hash",
+  "admins_ids": [
+    123,321,213
+  ],
+  "api_key": "OPENROUTER_KEY",
+  "selected_model": "google/gemini-3-flash-preview",
+  "selected_vision_model": "google/gemini-3-flash-preview",
+  "alt_model": "google/gemini-2.5-flash",
+  "analyze_model": "google/gemini-2.5-flash-lite",
+  "chat_analyze_models": [
+    "google/gemini-2.5-flash-lite"
+  ]
+}
